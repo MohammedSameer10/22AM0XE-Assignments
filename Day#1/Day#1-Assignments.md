@@ -31,7 +31,8 @@
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-![image](https://github.com/user-attachments/assets/ffec716b-4b60-40b1-9d48-2f75bdb0afcf)
+![image](https://github.com/user-attachments/assets/01eb5a95-4d4e-4842-a1f7-fc076820a5fe)
+
 
 
 ***
