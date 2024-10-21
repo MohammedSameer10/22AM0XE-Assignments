@@ -66,6 +66,7 @@ https://github.com/MohammedSameer10/22AM0XE-Assignments/blob/7376221CS224/mohamm
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
+https://www.linkedin.com/in/mohammedsameer-s-414a51286/
 ![image](https://github.com/user-attachments/assets/a27871d1-9147-4acf-abc6-dd59467ffb98)
 
 
