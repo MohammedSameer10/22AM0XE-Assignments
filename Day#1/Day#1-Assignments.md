@@ -32,7 +32,8 @@
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/ffec716b-4b60-40b1-9d48-2f75bdb0afcf)
+
 
 ***
 
@@ -52,21 +53,20 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
 - Spotify Hosted on Google Cloud Platform (GCP).
   - Logo: ![image](https://github.com/user-attachments/assets/3f1172ff-7560-4b67-85ad-8e27cf18f045)
   - Details: music listening and recommendation app.
 
-> Add your answer here!
 
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+https://github.com/MohammedSameer10/22AM0XE-Assignments/blob/7376221CS224/mohammedsameer_s/Day%231/Day%231-Assignments.md
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/a27871d1-9147-4acf-abc6-dd59467ffb98)
+
 
 ***
