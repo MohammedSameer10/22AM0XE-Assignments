@@ -79,6 +79,8 @@
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> https://www.linkedin.com/posts/mohammedsameer-s-414a51286_i-just-completed-an-insightful-one-credit-activity-7254698645948686336-d-h3?utm_source=share&utm_medium=member_desktop
+> ![image](https://github.com/user-attachments/assets/05ba183e-f055-48bc-8bc0-657f9b1c84c5)
+
 
 ***
