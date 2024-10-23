@@ -74,7 +74,7 @@
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> https://github.com/MohammedSameer10/22AM0XE-Assignments/wiki
 
 ***
 
